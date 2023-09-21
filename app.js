@@ -125,7 +125,7 @@ function operate(firstNumber, secondNumber, operator) {
 
 function display(data) {
     let ans = data.toString();
-    if (ans.length > 11) {
+    if (ans.length >= 11) {
         ans = ans.slice(0, 11);
     }
     screen.textContent = ans;
