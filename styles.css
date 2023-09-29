@@ -86,7 +86,7 @@ button {
 .footer {
   font-size: 18px;
   margin-top: auto;
-  color: hsl(202, 11%, 29%);
+  color: black;
 }
 
 .icon {
@@ -94,5 +94,5 @@ button {
 }
 
 .icon:hover {
-  color: hsl(202, 11%, 49%);
+  color: rgba(0, 0, 0, 0.496);
 }
