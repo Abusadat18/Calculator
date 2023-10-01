@@ -10,6 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  background-color: hsl(202, 91%, 92%);
 }
 
 button {
@@ -86,11 +87,11 @@ button {
 .footer {
   font-size: 18px;
   margin-top: auto;
-  color: black;
 }
 
 .icon {
   margin-left: 5px;
+  color: black;
 }
 
 .icon:hover {
