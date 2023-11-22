@@ -147,4 +147,4 @@ function reduceLength(answer) {
     return data;
 }
 
-/* Fixing GITHub Contribution Chart Bug */
+/* Fixing GITHub Contribution Chart Bugggg */
